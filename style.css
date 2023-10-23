@@ -1,0 +1,18 @@
+body{
+    background-color: aliceblue;
+}
+table{
+    font-size: xx-large;
+    color: grey;
+    margin: auto;
+    border: 1px solid gray;
+}
+.td, th{
+    border: 1px solid gray;
+    text-align: center;
+    padding: 8px;
+}
+table td{
+    border: 1px solid gray;
+    text-align: center;
+}
